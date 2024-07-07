@@ -1,0 +1,11 @@
+# tells prettier to note formate some files
+node_modules
+package.json
+img
+artifacts
+cache
+coverage
+.env
+.*
+README.md
+coverage.json
